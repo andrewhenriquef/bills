@@ -1,0 +1,2 @@
+class PaymentOrder < ApplicationRecord
+end
